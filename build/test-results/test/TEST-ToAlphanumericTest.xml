@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ToAlphanumericTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-12-07T14:34:13" hostname="KAMMANA1" time="1.111">
+  <properties/>
+  <testcase name="testCalculator" classname="ToAlphanumericTest" time="0.784"/>
+  <testcase name="testCall" classname="ToAlphanumericTest" time="0.175"/>
+  <testcase name="testToUpperCase" classname="ToAlphanumericTest" time="0.147"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
